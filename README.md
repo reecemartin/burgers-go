@@ -4,7 +4,7 @@ Welcome to BurgersGo! This is a web app built with the MERN stack (MongoDB, Expr
 
 ## App Links
 
-The web app is hosted on Heroku at the following link:
+The web app is hosted on Heroku at the following link (not currently active):
 
 * https://sleepy-lowlands-61784.herokuapp.com/
 
